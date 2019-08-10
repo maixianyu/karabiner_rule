@@ -31,3 +31,7 @@ Gui + f -> Ctrl + f
 Gui + o -> Ctrl + o
 Gui + a -> Ctrl + a
 Gui + n -> Ctrl + n
+
+# 参考
+http://singsing.io/blog/mac/Mac-1/
+https://zhuanlan.zhihu.com/p/24020977
