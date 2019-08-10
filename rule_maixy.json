@@ -341,6 +341,25 @@
               ]
             }
           ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "o",
+            "modifiers": {
+                "mandatory": [
+                    "left_gui" 
+                ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "o",
+              "modifiers": [
+                "left_control" 
+              ]
+            }
+          ]
         }
       ]
     },
