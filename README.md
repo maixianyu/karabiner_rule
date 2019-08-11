@@ -6,11 +6,12 @@ Down -> Ctrl + n
 Left -> Ctrl + b  
 Right -> Ctrl + f  
 
-## 跳转/选择 至 行首/行尾
+## 跳转/选择/删除 至 行首/行尾
 跳转至行首 -> Ctrl + a  
 跳转至行尾 -> Ctrl + e  
 选择至行首 -> Ctrl + a + Alt  
 选择至行尾 -> Ctrl + e + Alt  
+删除至行首 -> Ctrl + u
 
 ## 跳转/选择 至 上一个/下一个单词
 跳转至上一个单词 -> Ctrl + Gui + b  
