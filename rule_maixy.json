@@ -593,7 +593,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "c",
+            "key_code": "z",
             "modifiers": {
                 "mandatory": [
                     "left_control"
