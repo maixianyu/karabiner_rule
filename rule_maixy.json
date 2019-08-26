@@ -329,7 +329,7 @@
             "modifiers": {
                 "mandatory": [
                     "left_control",
-                    "right_alt"
+                    "right_shift"
                 ]
             }
           },
@@ -350,7 +350,7 @@
             "modifiers": {
                 "mandatory": [
                     "left_control",
-                    "right_alt"
+                    "right_shift"
                 ]
             }
           },
